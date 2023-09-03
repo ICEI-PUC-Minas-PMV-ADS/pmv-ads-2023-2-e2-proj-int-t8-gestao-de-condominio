@@ -1,10 +1,13 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+O problema que se busca resolver com este projeto é o gerenciamento de condomínio, sanando os problemas concernente a portaria, marcação da área de lazer e tudo é necessário para trazer harmonia, confiabilidade, agilidade e imparcialidade.
+Objetivos
+O objetivo geral deste trabalho é a criação de um portal de gestão de condomínio que apresente ferramentas de fácil uso e que permita o acesso dos condôminos a tudo que é pertinente ao seu apartamento.
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Como objetivos específicos, podemos ressaltar:
+Fornecer funcionalidades que permitam interagir com a permissão de entrada ao apartamento.
+Agendamento a área de lazer, tais como churrasqueira.
+Permitir a criação de abertura de chamado concernente a manutenção do apartamento.
 
 ## Personas
 
