@@ -11,9 +11,17 @@ Permitir a criação de abertura de chamado concernente a manutenção do aparta
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+ **<h3 align="center" >Denilson Rodriguez</h3 >**
+ 
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.jpeg"> **Biografia**: Meu nome é Denilson Rodriguez, tenho 33 anos e sou um gerente de hotel que mora em São Paulo, SP.
+
+**Objetivo**:
+Gerir uma grande rede de hotéis
+
+**Frustrações**:
+Sente que os sistemas de gestão de hotéis atuais estão datados.
+##
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
