@@ -14,7 +14,7 @@ Permitir a criação de abertura de chamado concernente a manutenção do aparta
 
  **<h3 align="center" >Denilson Rodriguez</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.jpeg"> **Biografia**: Meu nome é Denilson Rodriguez, tenho 33 anos e sou um gerente de hotel que mora em São Paulo, SP.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.png"> **Biografia**: Meu nome é Denilson Rodriguez, tenho 33 anos e sou um gerente de hotel que mora em São Paulo, SP.
 
 **Objetivo**:
 Gerir uma grande rede de hotéis
