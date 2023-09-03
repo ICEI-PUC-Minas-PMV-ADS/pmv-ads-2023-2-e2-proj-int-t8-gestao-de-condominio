@@ -23,6 +23,16 @@ Gerir uma grande rede de hotéis
 Sente que os sistemas de gestão de hotéis atuais estão datados.
 ##
 
+**<h3 align="center" >Helena Fernandes</h3 >**
+ 
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Meu nome é Helena, tenho 46 anos, mãe solteira e sou dona de uma pousada na Baixada Fluminense no Rio De Janeiro.
+
+**Objetivo**:
+Manter seu negócio estável, conseguir gerir ele de forma melhor para poder ter mais tempo com seu filho.
+
+**Frustrações**:
+Por conta da desorganização e uma má gestão de sua pousada, Helena sente que seu negócio está tomando muito mais de seu tempo do que deveria, também sente que isso atrapalha o crescimento do mesmo.
+##
 
 
 
