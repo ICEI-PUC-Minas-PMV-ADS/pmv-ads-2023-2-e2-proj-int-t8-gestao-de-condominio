@@ -24,6 +24,11 @@ Sente que os sistemas de gestão de hotéis atuais estão datados.
 ##
 
 
+
+
+
+
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
