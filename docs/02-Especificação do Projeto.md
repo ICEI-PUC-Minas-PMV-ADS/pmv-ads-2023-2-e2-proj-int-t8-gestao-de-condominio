@@ -11,39 +11,38 @@ Permitir a criação de abertura de chamado concernente a manutenção do aparta
 
 ## Personas
 
- **<h3 align="center" >Denilson Rodriguez</h3 >**
+ **<h3 align="center" >Adriano Ramos</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.png"> **Biografia**: Meu nome é Denilson Rodriguez, tenho 33 anos e sou um gerente de hotel que mora em São Paulo, SP.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona1.png"> **Biografia**: Meu nome é Adriano Ramos, tenho 29 anos e moro sozinho em São Paulo.
 
 **Objetivo**:
-Gerir uma grande rede de hotéis
+Gostaria de uma maior organização nos espaços gourmet do condomínio, para usar a área de churrasco nos finais de semana com meus amigos, sem ter conflitos com outros moradores.
 
 **Frustrações**:
-Sente que os sistemas de gestão de hotéis atuais estão datados.
+Sinto que o condomínio anda bem desorganizado, isso me deixa insastifeito e tem gerado atrito entre os moradores.
 
 <br />         
 
 **<h3 align="center" >Helena Fernandes</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Meu nome é Helena, tenho 46 anos, mãe solteira e sou dona de uma pousada na Baixada Fluminense no Rio De Janeiro.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpg"> **Biografia**: Meu nome é Helena, tenho 46 anos e sou mãe solteira.
 
 **Objetivo**:
-Manter seu negócio estável, conseguir gerir ele de forma melhor para poder ter mais tempo com seu filho.
+Quero poder usufruir dos espaços gourmet com meus filhos.
 
 **Frustrações**:
-Por conta da desorganização e uma má gestão de sua pousada, Helena sente que seu negócio está tomando muito mais de seu tempo do que deveria, também sente que isso atrapalha o crescimento do mesmo.
-
+Por conta da desorganização do condomínio os espaços gourmet, piscina, área de churrasqueira, salão de jogos, tenho tido problemas para desfrutar desses espaços com meus filhos, as reservas dos locais raramente estão corretas, é bem comum ter conflitos nas reservas, passo pouco tempo com eles e gostaria de ter certeza que vou poder ter um tempo de lazer a sós com eles. 
 <br />         
  
-**<h3 align="center" >Carlos Martins</h3 >**
+**<h3 align="center" >Firmino Gonçalves</h3 >**
  
- <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona3.jpg"> **Biografia**: Meu nome é Carlos Martins, tenho 56 anos sou síndico de um grande condomínio na zona sul de São Paulo.
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona3.jpg"> **Biografia**: Meu nome é Firmino Gonçalves, tenho 56 anos e sou síndico de um grande condomínio na zona sul de São Paulo.
 
 **Objetivo**:
-Poder fazer melhor meu trabalho, organizar melhor os espaços gourmet de forma a satisfazer todos do condomínio.
+Poder fazer melhor meu trabalho, organizar melhor os espaços gourmet de forma a satisfazer todos os moradores do condomínio.
 
 **Frustrações**:
-Falta de uma sistema simples e eficiente para organizar o condomínio.
+Falta de uma sistema simples e eficiente para organizar o condomínio, muitos moradores reclamam de conflitos nas reservas dos espaços gourmet, muitas vezes o local já está sendo usado enquanto era reserva de outra pessoa.Por conta do condomío ser bem grande, um grande número de moradores faz uso regular dos espaços gourmet e tenho tido dificuldades nessa questão da organização, um sistema eficiente realmente faz falta.
  
 <br />         
 
