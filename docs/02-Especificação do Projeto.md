@@ -34,9 +34,17 @@ Manter seu negócio estável, conseguir gerir ele de forma melhor para poder ter
 Por conta da desorganização e uma má gestão de sua pousada, Helena sente que seu negócio está tomando muito mais de seu tempo do que deveria, também sente que isso atrapalha o crescimento do mesmo.
 ##
 
+**<h3 align="center" >Carlos Martins</h3 >**
+ 
+ <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona3.jpg"> **Biografia**: Meu nome é Carlos Martins, tenho 56 anos sou síndico de um grande condomínio na zona sul de São Paulo.
 
+**Objetivo**:
+Poder fazer melhor meu trabalho, organizar melhor os espaços gourmet de forma a satisfazer todos do condomínio.
 
-
+**Frustrações**:
+Falta de uma sistema simples e eficiente para organizar o condomínio.
+ 
+<br />         
 
 
 ## Histórias de Usuários
