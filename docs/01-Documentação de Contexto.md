@@ -16,12 +16,12 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Desenvolver um portal de gestão de condomínio que ofereça ferramentas de fácil utilização e permita aos condôminos acesso a informações relevantes sobre seus apartamentos. O sistema poderia oferecer funcionalidades tanto em relação aos inquilinos e visitantes quanto para a gestão da propriedade. Por exemplo, o sistema iria registrar todas as pessoas que visitam o edifício, dando informações básicas (como data de visita, tempo de estadia, etc...) sobre visitantes, perfis completos (como fotos, registro de avisos, registro de manutenção, etc...) dos moradores, e permitindo ou bloqueando a entrada de algumas, se necessário.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O sistema também pode ser capaz de manter registros sobre o uso das áreas do próprio edifício. Funcionalidades incluidas seriam, por exemplo, a capacidade de agendar as áreas de lazer do condomínio, como churrasqueira, piscina, ou salão de festas, e fornecer informações ao usuário sobre o estado destas áreas, tal como disponibilidade. O sistema também deveria ser responsivo neste requisito, notificando o usuário  sobre confirmações, cancelamentos, e outros, do agendamento.
+
+Funcionários também poderão ser capazes de organizar e compilar chamados de manutenção em um lugar, sendo capaz de notar urgência, colocar detalhes e incluir fotos. Deve ser similar ao sistema de reserva de áreas em relação à responsividade, notificando o usuário sobre qualquer atualização na manutenção do edifício.
+
 
 ## Justificativa
 
