@@ -11,8 +11,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * George Lucas Sales De Matos
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Vinícius Nogueira do Prado
+* Henrique Nogueira do Prado
 * Nome completo do aluno 4
 
 ## Orientador
