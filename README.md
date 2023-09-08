@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Gestão de Condomínio
 
 `CURSO`
 
@@ -14,6 +14,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Vinícius Nogueira do Prado
 * Henrique Nogueira do Prado
 * Jonatas de Carvalho Brum
+* Anderson
+* Gustavo Oliveira
 
 ## Orientador
 
