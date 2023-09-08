@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * George Lucas Sales De Matos
 * Vinícius Nogueira do Prado
 * Henrique Nogueira do Prado
-* Nome completo do aluno 4
+* Jonatas de Carvalho Brum
 
 ## Orientador
 
