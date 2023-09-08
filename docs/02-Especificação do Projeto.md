@@ -72,30 +72,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitir o gerenciamento de logins.  | ALTA | 
+|RF-002| O sistema deve poder gerenciar contas de usuários.   | ALTA |
+|RF-003| A aplicação deve gerenciar veículos de condomínios.  | ALTA |
+|RF-004| A aplicação deve gerenciar o acesso de visitantes.  | ALTA |
+|RF-005| A aplicação deve gerenciar áreas de lazer. | MÉDIA |
+|RF-006| A aplicação deve gerenciar reservas de áreas de lazer.  | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| A aplicação deve ser publicada em um ambiente acessível publicamente na Internet  | ALTA | 
+|RNF-002| A aplicação deverá ser responsiva permitindo a visualização em um celular de forma adequada  | ALTA | 
+|RNF-003| A aplicação deve cadastrar, atualizar e apagar cadastro de moradores e inquilinos.  | ALTA |
+|RNF-004| A aplicação deve ser de fácil usabilidade.  | MÉDIA |
+|RNF-005| A aplicação deve permitir o registro de dados de visitantes nos edifícios. | MÉDIA |
+|RNF-006| A aplicação deve ser altamente responsiva, respondendo ao usuário em no máximo 3 segundos. | MÉDIA |
 
 ## Restrições
 
@@ -118,10 +111,3 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
