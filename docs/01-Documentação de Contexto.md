@@ -1,6 +1,10 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Este projeto visa abordar questões cruciais relacionadas à gestão de condomínios, buscando solucionar problemas relacionados à portaria, marcação de áreas de lazer e outros aspectos essenciais que afetam a harmonia, confiabilidade, agilidade e imparcialidade nesse contexto. A gestão eficaz de condomínios desempenha um papel fundamental na qualidade de vida dos moradores, abordando preocupações ligadas à segurança, ao acesso a espaços comuns e à transparência na administração.
+
+Neste contexto, estamos desenvolvendo um programa dedicado ao gerenciamento de condomínios, que visa simplificar a administração e aprimorar a experiência dos condôminos. Através da implementação de tecnologias e práticas modernas, almejamos facilitar a resolução de problemas e garantir decisões imparciais. Este projeto busca proporcionar um ambiente mais eficiente e confiável para todos os envolvidos, tornando a convivência condominial mais tranquila e satisfatória.
+Este documento apresentará detalhadamente os objetivos, funcionalidades e vantagens do programa, demonstrando como ele pode impactar positivamente a gestão de condomínios e a qualidade de vida de seus moradores. Contudo, este projeto tem como a finalidade central de aprimorar a convivência em comunidades condominiais, trazendo maior eficiência e satisfação para todas as partes interessadas.
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
