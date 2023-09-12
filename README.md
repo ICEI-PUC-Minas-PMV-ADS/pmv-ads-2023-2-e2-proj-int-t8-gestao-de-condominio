@@ -1,25 +1,25 @@
 # Gestão de Condomínio
 
-`CURSO`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de uma Aplicação Interativa
 
-`SEMESTRE`
+Eixo 2 - 2023
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste em desenvolver um sistema de gestão de condomínio. Através dessa aplicação, os condôminos poderão permitir acesso ao apartamento, reservar área de lazer entre outros.
 
 ## Integrantes
-
+* Anderson Nascimento Souza
 * George Lucas Sales De Matos
-* Vinícius Nogueira do Prado
+* Gustavo Vinicius de Souza Oliveira
 * Henrique Nogueira do Prado
 * Jonatas de Carvalho Brum
-* Anderson
-* Gustavo Oliveira
+* Vinícius Nogueira do Prado
+
 
 ## Orientador
 
-* Nome completo do professor 1
+Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
