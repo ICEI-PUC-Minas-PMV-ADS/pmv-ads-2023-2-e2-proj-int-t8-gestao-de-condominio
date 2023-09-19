@@ -71,18 +71,9 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+AMBIENTE	PLATAFORMA	LINK DE ACESSO
+Repositório de código fonte	GitHub	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/edit/main/docs/03-Metodologia.md
+Gerenciamento do Projeto	GitHub	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/edit/main/docs/03-Metodologia.md
+Projeto de Interface e Wireframes	Marvel	https://marvelapp.com/prototype/h30ei94
+Ferramentas de comunicação	Microsoft Teams	https://teams.microsoft.com/l/channel/19%3a76dde1c47c044b659dead8e93b0151f4%40thread.tacv2/G4%2520-%2520T8%2520-%2520Quarta%252020_30%2520Horas?groupId=68a944d9-09c5-485a-8417-d199f7bb6b28&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161
+Para o gerenciamento do projeto e repositório do código escolhemos o GitHub, por ser uma ferramenta de fácil acesso para todos os integrantes do grupo e por ser amplamente utilizada no mercado de trabalho. A ferramentas de comunicação utilizada é o Microsoft Teams, pois já era a ferramenta oficial utilizada na comunicação do curso e por possuir diversas utilidades como a possibilidade de colaboração em arquivos no Word, Excel e PowerPoint. Por fim, para criar o projeto de interface utilizamos o Marvel app por atender as necessidades do projeto e já ser conhecido pelo grupo .
