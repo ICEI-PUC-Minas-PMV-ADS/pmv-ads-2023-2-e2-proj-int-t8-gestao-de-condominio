@@ -40,12 +40,22 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Scrum Master: Henrique Nogueira do Prado
+
+Product Owner: Vinícius Nogueira do Prado
+
+Equipe de Desenvolvimento:
+Anderson Nascimento Souza
+George Lucas Sales De Matos
+Gustavo Vinicius de Souza Oliveira
+Jonatas de Carvalho Brum
+
+Equipe de Design:
+George Lucas Sales De Matos
+
+
 
 ### Processo
 
