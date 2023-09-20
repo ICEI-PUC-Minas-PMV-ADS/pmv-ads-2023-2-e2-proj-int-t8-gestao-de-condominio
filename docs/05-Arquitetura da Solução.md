@@ -43,11 +43,11 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
 
 ## Tabela: Moradores
 
-ID (Chave Primária)
-Nome
-Foto (Link para a foto do morador)
-Telefone
-Email
+- ID (Chave Primária)
+- Nome
+- Foto (Link para a foto do morador)
+- Telefone
+- Email
  
 ## Tabela: Visitantes
 
