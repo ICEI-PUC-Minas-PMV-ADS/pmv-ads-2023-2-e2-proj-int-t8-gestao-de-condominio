@@ -31,6 +31,20 @@ Reserva de Áreas Comuns: Permitir que os moradores agendem áreas comuns, como 
 
 Chamados de Manutenção: Oferecer a capacidade de registrar chamados de manutenção, incluindo detalhes do problema, nível de urgência e inclusão de fotos.
 
+## Projeto da Base de Dados
+
+## 1. Requisitos do Sistema
+
+O sistema de gerenciamento de condomínios deve ser capaz de lidar com várias funcionalidades essenciais, incluindo:
+
+Controle de Acesso: Registrar informações sobre visitantes, incluindo nome, data de visita, tempo de permanência, morador visitado e outros detalhes relevantes. Além disso, deve permitir o bloqueio ou liberação de acesso conforme necessário.
+
+Perfil de Moradores: Manter perfis completos dos moradores, incluindo informações como nome, foto, dados de contato e registro de avisos.
+
+Reserva de Áreas Comuns: Permitir que os moradores agendem áreas comuns, como churrasqueira, piscina e salão de festas, e forneçam informações sobre a disponibilidade dessas áreas.
+
+Chamados de Manutenção: Oferecer a capacidade de registrar chamados de manutenção, incluindo detalhes do problema, nível de urgência e inclusão de fotos.
+
 ## 2. Modelagem do Banco de Dados
 
 Com base nos requisitos acima, podemos criar as seguintes tabelas:
@@ -45,43 +59,43 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
  
 ## Tabela: Visitantes
 
-ID (Chave Primária)
-Nome
-Data de Visita
-Tempo de Permanência
-Morador Visitado (Chave Estrangeira referenciando a tabela de Moradores)
-Detalhes Adicionais
+- ID (Chave Primária);
+- Nome;
+- Data de Visita;
+- Tempo de Permanência;
+- Morador Visitado (Chave Estrangeira referenciando a tabela de Moradores);
+- Detalhes Adicionais;
 
 ## Tabela: Registros de Acesso
 
-ID (Chave Primária)
-Visitante (Chave Estrangeira referenciando a tabela de Visitantes)
-Data e Hora de Entrada
-Data e Hora de Saída
-Status de Acesso (Bloqueado ou Liberado)
+- ID (Chave Primária);
+- Visitante (Chave Estrangeira referenciando a tabela de Visitantes);
+- Data e Hora de Entrada;
+- Data e Hora de Saída;
+- Status de Acesso (Bloqueado ou Liberado);
 
 ## Tabela: Áreas Comuns
 
-ID (Chave Primária)
-Nome da Área (por exemplo, Churrasqueira, Piscina, Salão de Festas)
-Disponibilidade (Indicando se a área está disponível para agendamento)
+- ID (Chave Primária);
+- Nome da Área (por exemplo, Churrasqueira, Piscina, Salão de Festas);
+- Disponibilidade (Indicando se a área está disponível para agendamento);
 
 ## Tabela: Reservas de Áreas Comuns
 
-ID (Chave Primária)
-Área Comum (Chave Estrangeira referenciando a tabela de Áreas Comuns)
-Morador (Chave Estrangeira referenciando a tabela de Moradores)
-Data e Hora de Reserva
-Status da Reserva (Confirmada, Cancelada, Pendente)
+- ID (Chave Primária);
+- Área Comum (Chave Estrangeira referenciando a tabela de Áreas Comuns);
+- Morador (Chave Estrangeira referenciando a tabela de Moradores);
+- Data e Hora de Reserva;
+- Status da Reserva (Confirmada, Cancelada, Pendente);
 
 ## Tabela: Chamados de Manutenção
 
-ID (Chave Primária)
-Morador (Chave Estrangeira referenciando a tabela de Moradores)
-Data de Abertura
-Nível de Urgência
-Descrição do Problema
-Fotos (Links para fotos do problema)
+- ID (Chave Primária);
+- Morador (Chave Estrangeira referenciando a tabela de Moradores);
+- Data de Abertura;
+- Nível de Urgência;
+- Descrição do Problema;
+- Fotos (Links para fotos do problema);
 
 ## 3. Relações entre Tabelas
 
