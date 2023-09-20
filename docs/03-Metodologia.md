@@ -8,9 +8,8 @@ O material empírico apresentado no presente relatório é um protótipo de uma 
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+![gestão codigo fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/116739381/1d3b16a0-3aca-4d29-a0f4-217b15d3b938)
+
 
 O projeto segue a seguinte convenção para o nome de branches:
 
