@@ -64,7 +64,7 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
 - Data de Visita;
 - Tempo de Permanência;
 - Morador Visitado (Chave Estrangeira referenciando a tabela de Moradores);
-- Detalhes Adicionais;
+- Detalhes Adicionais.
 
 ## Tabela: Registros de Acesso
 
@@ -72,13 +72,13 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
 - Visitante (Chave Estrangeira referenciando a tabela de Visitantes);
 - Data e Hora de Entrada;
 - Data e Hora de Saída;
-- Status de Acesso (Bloqueado ou Liberado);
+- Status de Acesso (Bloqueado ou Liberado).
 
 ## Tabela: Áreas Comuns
 
 - ID (Chave Primária);
 - Nome da Área (por exemplo, Churrasqueira, Piscina, Salão de Festas);
-- Disponibilidade (Indicando se a área está disponível para agendamento);
+- Disponibilidade (Indicando se a área está disponível para agendamento).
 
 ## Tabela: Reservas de Áreas Comuns
 
@@ -86,7 +86,7 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
 - Área Comum (Chave Estrangeira referenciando a tabela de Áreas Comuns);
 - Morador (Chave Estrangeira referenciando a tabela de Moradores);
 - Data e Hora de Reserva;
-- Status da Reserva (Confirmada, Cancelada, Pendente);
+- Status da Reserva (Confirmada, Cancelada, Pendente).
 
 ## Tabela: Chamados de Manutenção
 
@@ -95,7 +95,7 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
 - Data de Abertura;
 - Nível de Urgência;
 - Descrição do Problema;
-- Fotos (Links para fotos do problema);
+- Fotos (Links para fotos do problema).
 
 ## 3. Relações entre Tabelas
 
