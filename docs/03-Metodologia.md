@@ -1,7 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 O material empírico apresentado no presente relatório é um protótipo de uma aplicação, constituido por uma interface intuitiva para o usuário; com uma abordagem direta, com o objetivo de fornecer serviços solicitados pelos condômínos, atendendo as necessidades e suas particularidades.
 
