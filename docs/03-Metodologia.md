@@ -59,21 +59,26 @@ George Lucas Sales De Matos
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Project. As etapas são classificadas em:
+
+
+*To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+*In progress: Quando uma tarefa tiver sido iniciada, ela é movida para esta coluna.
+*Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias.
+*test: 
+
+![Trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/116739381/7eef0b1b-c1b0-4d7c-8907-a0b34a41eeb2)
+
+
+
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-AMBIENTE	PLATAFORMA	LINK DE ACESSO
-Repositório de código fonte	GitHub	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/edit/main/docs/03-Metodologia.md
-Gerenciamento do Projeto	GitHub	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/edit/main/docs/03-Metodologia.md
-Projeto de Interface e Wireframes	Marvel	https://marvelapp.com/prototype/h30ei94
-Ferramentas de comunicação	Microsoft Teams	https://teams.microsoft.com/l/channel/19%3a76dde1c47c044b659dead8e93b0151f4%40thread.tacv2/G4%2520-%2520T8%2520-%2520Quarta%252020_30%2520Horas?groupId=68a944d9-09c5-485a-8417-d199f7bb6b28&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161
+*  AMBIENTE	PLATAFORMA	LINK DE ACESSO
+*  Repositório de código fonte	GitHub	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/edit/main/docs/03-Metodologia.md
+*  Gerenciamento do Projeto	GitHub	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/edit/main/docs/03-Metodologia.md
+* Projeto de Interface e Wireframes	Marvel	https://marvelapp.com/prototype/h30ei94
+* Ferramentas de comunicação	Microsoft Teams	https://teams.microsoft.com/l/channel/19%3a76dde1c47c044b659dead8e93b0151f4%40thread.tacv2/G4%2520-%2520T8%2520-%2520Quarta%252020_30%2520Horas?groupId=68a944d9-09c5-485a-8417-d199f7bb6b28&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161
 Para o gerenciamento do projeto e repositório do código escolhemos o GitHub, por ser uma ferramenta de fácil acesso para todos os integrantes do grupo e por ser amplamente utilizada no mercado de trabalho. A ferramentas de comunicação utilizada é o Microsoft Teams, pois já era a ferramenta oficial utilizada na comunicação do curso e por possuir diversas utilidades como a possibilidade de colaboração em arquivos no Word, Excel e PowerPoint. Por fim, para criar o projeto de interface utilizamos o Marvel app por atender as necessidades do projeto e já ser conhecido pelo grupo .
