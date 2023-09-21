@@ -15,7 +15,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 ## Modelo ER (Projeto Conceitual)
 
-![Entidade Relacional](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/116739381/5135f435-6550-4452-847a-d1c6b63a1177)
+![Entidade Relacional](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/116739381/e2d13af7-03b3-4211-ab74-f0ddd21a4d86)
+
 
 
 ## Projeto da Base de Dados
