@@ -58,6 +58,15 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
 - Foto (Link para a foto do morador);
 - Telefone;
 - Email.
+
+## Tabela: Síndico
+
+- ID (Chave Primária);
+- Nome;
+- Foto (Link para a foto do síndico);
+- Telefone;
+- Email.
+ 
  
 ## Tabela: Visitantes
 
@@ -76,19 +85,11 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
 - Data e Hora de Saída;
 - Status de Acesso (Bloqueado ou Liberado).
 
-## Tabela: Áreas Comuns
+## Tabela: Áreas de Lazer
 
 - ID (Chave Primária);
 - Nome da Área (por exemplo, Churrasqueira, Piscina, Salão de Festas);
 - Disponibilidade (Indicando se a área está disponível para agendamento).
-
-## Tabela: Reservas de Áreas Comuns
-
-- ID (Chave Primária);
-- Área Comum (Chave Estrangeira referenciando a tabela de Áreas Comuns);
-- Morador (Chave Estrangeira referenciando a tabela de Moradores);
-- Data e Hora de Reserva;
-- Status da Reserva (Confirmada, Cancelada, Pendente).
 
 ## Tabela: Chamados de Manutenção
 
@@ -99,20 +100,9 @@ Com base nos requisitos acima, podemos criar as seguintes tabelas:
 - Descrição do Problema;
 - Fotos (Links para fotos do problema).
 
-## 3. Relações entre Tabelas
+## 3. Interface de Aplicação
 
-A tabela "Visitantes" terá uma relação de muitos para um com a tabela "Moradores", indicando qual morador o visitante está visitando.
-
-A tabela "Registros de Acesso" terá uma relação de muitos para um com a tabela "Visitantes", registrando as entradas e saídas dos visitantes.
-
-A tabela "Reservas de Áreas Comuns" terá relações de muitos para muitos com as tabelas "Moradores" e "Áreas Comuns", permitindo que um morador reserve uma área comum.
-
-A tabela "Chamados de Manutenção" terá uma relação de muitos para um com a tabela "Moradores", registrando os chamados de manutenção associados a um morador específico.
-
-## 4. Interface de Aplicação
-
-O sistema será acessado por meio de uma interface de aplicação web, que permitirá aos moradores, visitantes e administradores interagir com as funcionalidades do sistema de forma intuitiva e responsiva.
-
+O sistema será acessado por meio de uma interface de aplicação web, que permitirá aos moradores, síndico, visitantes e administradores interagir com as funcionalidades do sistema de forma intuitiva e responsiva.
 
 ## Tecnologias Utilizadas
 
