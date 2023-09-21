@@ -51,7 +51,7 @@ Chamados de Manutenção: Oferecer a capacidade de registrar chamados de manuten
 
 Com base nos requisitos acima, podemos criar as seguintes tabelas:
 
-## Tabela: Moradores
+## Tabela: Condôminos
 
 - ID (Chave Primária);
 - Nome;
