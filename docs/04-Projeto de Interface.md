@@ -22,23 +22,24 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-<h3 align="left">Tela de Login</h3>
+---
+
+### Tela de Login
 
 <img align="left" width="840px" height="400px" src="img/login.png">
 
-<br>
-<br>
+---
 
-<h3 align="left">Tela de Cadastro</h3>
+### Tela de Cadastro
 
 <img align="left" width="840px" height="400px" src="img/cadastro.png">
 
-<br>
-<br>
+---
 
-<h3 align="left">Tela Principal</h3>
+### Tela Principal
 
 <img align="left" width="840px" height="400px" src="img/tela1.png">
+
 
 
 
