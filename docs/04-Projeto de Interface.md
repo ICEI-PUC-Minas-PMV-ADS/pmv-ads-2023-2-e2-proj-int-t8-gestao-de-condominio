@@ -22,20 +22,20 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-<div style="margin-bottom: 20px;">
-  <h3 align="left">Tela de Login</h3>
-  <img align="left" width="840px" height="400px" style="margin:-5px 1em 0 auto" src="img/login.png">
-</div>
+**<h3 align="left">Tela de Login</h3>**
+<img align="left" width="840px" height="400px" style="margin:-5px 1em 0 auto" src="img/login.png">
 
-<div style="margin-bottom: 20px;">
-  <h3 align="left">Tela de Cadastro</h3>
-  <img align="left" width="840px" height="400px" style="margin:-5px 1em 0 auto" src="img/cadastro.png">
-</div>
+<br>
+<p>&nbsp;</p>
 
-<div style="margin-bottom: 20px;">
-  <h3 align="left">Tela Principal</h3>
-  <img align="left" width="840px" height="400px" style="margin:-5px 1em 0 auto" src="img/tela1.png">
-</div>
+**<h3 align="left">Tela de Cadastro</h3>**
+<img align="left" width="840px" height="400px" style="margin:-5px 1em 0 auto" src="img/cadastro.png">
+
+<br>
+<p>&nbsp;</p>
+
+**<h3 align="left">Tela Principal</h3>**
+<img align="left" width="840px" height="400px" style="margin:-5px 1em 0 auto" src="img/tela1.png">
 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
