@@ -7,6 +7,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
+---
+
 ## Diagrama de Fluxo
 
 O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e  muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade no design do wireframe interativo que será desenvolvido logo em seguida.
@@ -20,9 +22,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 > **Links Úteis**:
 > - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
-## Wireframes
-
 ---
+
+## Wireframes
 
 ### Tela de Login
 
@@ -39,6 +41,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 ### Tela Principal
 
 <img align="left" width="840px" height="400px" src="img/tela1.png">
+
 
 
 
