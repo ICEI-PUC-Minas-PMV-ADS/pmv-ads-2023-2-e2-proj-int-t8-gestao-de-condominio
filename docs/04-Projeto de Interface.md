@@ -33,16 +33,25 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 
 
-**<h3 align="left" >Tela de Cadastro</h3 >**
+<div align="center">
+ 
+<h3><ins> Tela de Cadastro </ins></h3>
 
 <img align="left" width="840px" height="400px" src="img/cadastro.png">
 
+</div>
 
-**<h3 align="left" >Tela Principal</h3 >**
+<br>
+
+<div align="center">
+ 
+<h3><ins> Tela Principal </ins></h3>
 
 <img align="left" width="840px" height="400px" src="img/tela1.png">
 
+</div>
 
+<br>
 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
