@@ -22,7 +22,10 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Tela de Login](img/login.png)
+**<h3 align="center" >Tela de Login</h3 >**
+<img align="left" width="900px" height="400px" style="margin:-5px 1em 0 auto" src="img/login.png">
+
+<br />  
 
 ![Tela de Cadastro](img/cadastro.png)
 
