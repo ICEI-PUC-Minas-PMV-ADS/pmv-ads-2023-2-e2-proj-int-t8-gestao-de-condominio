@@ -25,7 +25,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
  
 <h3><ins> Tela de Login </ins></h3>
 
-<img src="img/login.png" width="840px" height="400px">
+<img src="img/login.png" width="700px" height="400px">
 
 </div>
 
@@ -37,7 +37,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
  
 <h3><ins> Tela de Cadastro </ins></h3>
 
-<img src="img/cadastro.png" width="840px" height="400px">
+<img src="img/cadastro.png" width="700px" height="400px">
 
 </div>
 
@@ -47,7 +47,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
  
 <h3><ins> Tela Principal </ins></h3>
 
-<img src="img/tela1.png" width="840px" height="400px">
+<img src="img/tela1.png" width="700px" height="400px">
 
 </div>
 
