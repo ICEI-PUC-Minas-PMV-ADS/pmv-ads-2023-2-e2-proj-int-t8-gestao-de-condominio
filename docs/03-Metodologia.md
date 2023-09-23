@@ -40,18 +40,18 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 
-Scrum Master: Henrique Nogueira do Prado
+*Scrum Master: Henrique Nogueira do Prado
 
-Product Owner: Vinícius Nogueira do Prado
+*Product Owner: Vinícius Nogueira do Prado
 
-Equipe de Desenvolvimento:
-Anderson Nascimento Souza
-George Lucas Sales De Matos
-Gustavo Vinicius de Souza Oliveira
-Jonatas de Carvalho Brum
+  Equipe de Desenvolvimento:
+   * Anderson Nascimento Souza
+   * George Lucas Sales De Matos
+   * Gustavo Vinicius de Souza Oliveira
+   * Jonatas de Carvalho Brum
 
-Equipe de Design:
-George Lucas Sales De Matos
+* Equipe de Design:
+    *George Lucas Sales De Matos
 
 
 
@@ -65,9 +65,13 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 *Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias.
 *test: 
 
-![Trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/116739381/7eef0b1b-c1b0-4d7c-8907-a0b34a41eeb2)
 
 
+![Trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/116739381/a1a7efd6-61f1-4456-859b-cc525cd85af9)
+
+
+
+https://trello.com/b/8wCHyu9A/gest%C3%A3o-de-condom%C3%ADnios
 
 
 ### Ferramentas
