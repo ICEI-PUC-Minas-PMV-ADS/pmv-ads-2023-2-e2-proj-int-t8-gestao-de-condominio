@@ -45,9 +45,10 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
    * Anderson Nascimento Souza
    * George Lucas Sales De Matos
    * Gustavo Vinicius de Souza Oliveira
-    * Jonatas de Carvalho Brum
+   * Jonatas de Carvalho Brum
 
   Equipe de Design:
+  
     * George Lucas Sales De Matos
 
 
