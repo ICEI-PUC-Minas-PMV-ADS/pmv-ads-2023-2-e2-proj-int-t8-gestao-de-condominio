@@ -1,25 +1,60 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+## Tela de registro
+| Caso de Teste 	| CT-01 – Cadastrar perfil 	|
+| --------------- | -------------------------- |
+|	Requisito Associado 	| RF-001 - O sistema deve permitir o gerenciamento de logins. |
+| Objetivo do Teste 	| Verificar se o sistema permite a criação de novas contas. |
+| Passo 1	| Acessar o site hospedado pelo navegador. |
+| Passo 2 | Entrar na tela de registro de contas pelo botão "Registrar". |
+| Passo 3 | Inserir dados válidos em todos os campos necessários. |
+| Passo 4 | Clicar no botão "Cadastrar" |
+| Critério de Êxito | O cadastro foi realizado com sucesso, e a Home Page é carregada para o usuário. |
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+| Caso de Teste 	| CT-02 – Cadastrar perfil (Sem sucesso)	|
+| --------------- | -------------------------- |
+|	Requisito Associado 	| RF-001 - O sistema deve permitir o gerenciamento de logins. |
+| Objetivo do Teste 	| Verificar se o sistema permite a criação de novas contas. |
+| Passo 1	| Acessar o site hospedado pelo navegador. |
+| Passo 2 | Entrar na tela de registro de contas pelo botão "Registrar". |
+| Passo 3 | Inserir dados inválidos em todos os campos e/ou deixar de inserir dados em algum dos campos. |
+| Passo 4 | Clicar no botão "Cadastrar" |
+| Critério de Êxito | O sistema detecta que há campos vazios e/ou dados inválidos em algum dos campos e nega o cadastro de uma nova conta. |
 
-Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o(s) requisito(s) associado(s) a cada um deles está(ão) correto(s) - de acordo com o que foi definido na seção "2 - Especificação do Projeto". 
+## Tela de Login
 
-Por exemplo:
- 
-| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
-|:---:	|:---:	|
-|	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
-|  	|  	|
-| Caso de Teste 	| CT-02 – Efetuar login	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
+| Caso de Teste 	| CT-03 - Efetuar o login de uma conta |
+| --------------- | -------------------------- |
+|	Requisito Associado 	| RF-001 - O sistema deve permitir o gerenciamento de logins. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+| Passo 1	| Acessar o site hospedado pelo navegador. |
+| Passo 2 | Entrar na tela de login de contas pelo botão "Entrar" |
+| Passo 3 | Inserir todos os dados previamente inseridos na criação da conta. |
+| Passo 4 | Clicar no botão "Entrar" |
+| Critério de Êxito | O usuário consegue entrar em sua conta com sucesso, e a Home Page é carregada para o usuário. |
+
+| Caso de Teste 	| CT-04 - Efetuar o login de uma conta (Sem sucesso) |
+| --------------- | -------------------------- |
+|	Requisito Associado 	| RF-001 - O sistema deve permitir o gerenciamento de logins. |
+| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
+| Passo 1	| Acessar o site hospedado pelo navegador. |
+| Passo 2 | Entrar na tela de login de contas pelo botão "Entrar" |
+| Passo 3 | Inserir dados inválidos em todos os campos e/ou deixar de inserir dados em algum dos campos. |
+| Passo 4 | Clicar no botão "Entrar" |
+| Critério de Êxito | O sistema detecta que há campos vazios e/ou dados inválidos em algum dos campos e nega o login em uma conta.|
+
+## Tela de Registro de Reservas
+
+| Caso de Teste 	| CT-05 - Reservar área de lazer |
+| --------------- | -------------------------- |
+|	Requisito Associado 	| RF-006 	A aplicação deve gerenciar reservas de áreas de lazer; RF-005 -	A aplicação deve gerenciar áreas de lazer. |
+| Objetivo do Teste 	| Verificar se o sistema registra reservas das áreas de lazer. |
+| Passo 1	| Acessar a Home Page. |
+| Passo 2 | Acessar o menu de reservas pelo botão "Reservas". |
+| Passo 3 | Acessar o meunu para efetuar reservas pelo botão "Nova reserva".|
+| Passo 3 | Especificar todas os dados necessários para a reserva da área. |
+| Passo 4 | Clicar no botão "Efetuar reserva" | 
+| Critério de Êxito | É registrado a reserva, e esta é demonstrada para todos usuários do mesmo apartamento que aquela área foi reservada. |
 
  
 > **Links Úteis**:
