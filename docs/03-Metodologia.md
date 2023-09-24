@@ -27,12 +27,7 @@ etiquetas:
 
 Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+
 
 ## Gerenciamento de Projeto
 
@@ -40,38 +35,41 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 
-*Scrum Master: Henrique Nogueira do Prado
+  Scrum Master:
+   * Jonatas de Carvalho Brum 
 
-*Product Owner: Vinícius Nogueira do Prado
+  Product Owner:
+   * Vinícius Nogueira do Prado
 
   Equipe de Desenvolvimento:
    * Anderson Nascimento Souza
    * George Lucas Sales De Matos
    * Gustavo Vinicius de Souza Oliveira
-   * Jonatas de Carvalho Brum
+    * Jonatas de Carvalho Brum
 
-* Equipe de Design:
-    *George Lucas Sales De Matos
+  Equipe de Design:
+    * George Lucas Sales De Matos
 
 
 
 ### Processo
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Project. As etapas são classificadas em:
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello e GitHub Project. As etapas são classificadas em:
 
 
-*To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
-*In progress: Quando uma tarefa tiver sido iniciada, ela é movida para esta coluna.
-*Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias.
-*test: 
-
-
-
-![Trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/116739381/a1a7efd6-61f1-4456-859b-cc525cd85af9)
+  *To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+  *In progress: Quando uma tarefa tiver sido iniciada, ela é movida para esta coluna.
+  *Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias.
+  *test: 
 
 
 
-https://trello.com/b/8wCHyu9A/gest%C3%A3o-de-condom%C3%ADnios
+![Trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/116739381/2cb9ef27-3cf5-49c4-992b-d61e9294bae8)
+
+
+
+  * https://trello.com/b/8wCHyu9A/gest%C3%A3o-de-condom%C3%ADnios
+  * https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/679/views/2
 
 
 ### Ferramentas
@@ -84,4 +82,4 @@ As ferramentas empregadas no projeto são:
 * Projeto de Interface e Wireframes	Marvel	https://marvelapp.com/prototype/h30ei94
 * Ferramentas de comunicação	Microsoft Teams	https://teams.microsoft.com/l/channel/19%3a76dde1c47c044b659dead8e93b0151f4%40thread.tacv2/G4%2520-%2520T8%2520-%2520Quarta%252020_30%2520Horas?groupId=68a944d9-09c5-485a-8417-d199f7bb6b28&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161
 Para o gerenciamento do projeto e repositório do código escolhemos o GitHub, por ser uma ferramenta de fácil acesso para todos os integrantes do grupo e por ser amplamente utilizada no mercado de trabalho. A ferramentas de comunicação utilizada é o Microsoft Teams, pois já era a ferramenta oficial utilizada na comunicação do curso e por possuir diversas utilidades como a possibilidade de colaboração em arquivos no Word, Excel e PowerPoint. Por fim, para criar o projeto de interface utilizamos o Marvel app por atender as necessidades do projeto e já ser conhecido pelo grupo .
-* Projeto do Git Hub com Backlog e plano de sprints: https://trello.com/c/zal6mgaF/20-backlog   e https://trello.com/c/7SQvmkxv/15-plano-de-sprints . 
+* Projeto do Git Hub com Backlog e plano de sprints: https://trello.com/c/zal6mgaF/20-backlog  https://trello.com/c/7SQvmkxv/15-plano-de-sprints  e  https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/679/views/2
