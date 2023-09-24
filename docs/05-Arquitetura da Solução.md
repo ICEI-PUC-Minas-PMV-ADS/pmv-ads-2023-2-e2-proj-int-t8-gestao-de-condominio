@@ -22,9 +22,9 @@ O sistema de gerenciamento de condomínios deve ser capaz de lidar com várias f
 
 Controle de Acesso: Registrar informações sobre visitantes, incluindo nome, data de visita, tempo de permanência, morador visitado e outros detalhes relevantes. Além disso, deve permitir o bloqueio ou liberação de acesso conforme necessário.
 
-Perfil de Moradores: Manter perfis completos dos moradores, incluindo informações como nome, foto, dados de contato e registro de avisos.
+Perfil de Condôminios: Manter perfis completos dos moradores, incluindo informações como nome, foto, dados de contato e registro de avisos.
 
-Reserva de Áreas Comuns: Permitir que os moradores agendem áreas comuns, como churrasqueira, piscina e salão de festas, e forneçam informações sobre a disponibilidade dessas áreas.
+Reserva de Áreas Lazer: Permitir que os moradores agendem áreas comuns, como churrasqueira, piscina e salão de festas, e forneçam informações sobre a disponibilidade dessas áreas.
 
 Chamados de Manutenção: Oferecer a capacidade de registrar chamados de manutenção, incluindo detalhes do problema, nível de urgência e inclusão de fotos.
 
