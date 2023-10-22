@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Carros - Apargen</title>
+    <link rel="stylesheet" href="css/carros.css">
+
+</head>
+
+
+<body>
+    <div class="header">
+        <div class="navConta"> <span id="loginHref"> Login </span> | <span id="cadastrarHref"> Cadastrar </span> </div>
+    </div>
+
+    <article id="menuPrincipal">
+        <figure class="menuCarro"> MGKT-1103 <br>Presente?
+            <select id="presente">
+                <option value="sim">Sim</option>
+                <option value="não">Não</option>
+            </select>
+            <div id="presençaAutomática"> <u onclick="mostrarDiv()">Definir Horário:</u>
+                <input type="time" id="horário1"> <span id="texto">até </span> <input type="time" id="horário2">
+            </div>
+            <div id="caixadeInformação">Isto irá automáticamente atualizar a presença do carro para "Não" dependendo do horário que foi definido. <br> Ex: O estado de presença irá mudar para "Não" caso o horário definido foi: (06:30) - (12:00)</div>
+        </figure>
+    </article>
+
+    <footer class="footer"> 
+        Apargen 2023 
+        <div class="vl"></div> 
+        <div class="space"></div>
+        Contatos <br> Dúvidas?
+        <div class="space"></div>
+    </footer>
+</body>
+
+<script src="carros.js"></script>
+
+</html>
