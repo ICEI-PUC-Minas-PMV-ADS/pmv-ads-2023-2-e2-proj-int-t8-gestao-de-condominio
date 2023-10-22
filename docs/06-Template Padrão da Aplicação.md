@@ -2,11 +2,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O template da aplicação contém um cabeçalho, um rodapé, e o conteúdo da página.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+<image src="img/template.png">
+
+Este template contém as opções de log-in e cadastro, os quais permitirão o usuário a registrar e entrar em contas guardadas no banco de dados.
+
+A tela inicial tem uma aparência diferente das demais:
+
+<image src="img/telainicial.png">
+
+Ela chama a atenção de qualquer visitante para os benefícios da aplicação, rapidamente explicando o que a tal é capaz de.
+
+<image src="img/colorscheme.png">
+
+O esquema de cores foi decidido a partir da escolha de ser o menos intrusivo o possível, facilitando a utilização da aplicação, e dando uma aparência moderna para o website.
