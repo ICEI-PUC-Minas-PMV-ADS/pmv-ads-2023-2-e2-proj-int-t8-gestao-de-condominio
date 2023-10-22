@@ -56,3 +56,10 @@ body {
     height: 100%;
     width: 20px;
 }
+
+.navbar {
+    border-bottom: 2px solid var(--main-color);
+    width: 100%;
+    height: 1.5em;
+}
+

@@ -1,0 +1,57 @@
+<style>
+        body {
+            background-color: #B4C1B7;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4c9a5c;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+        footer {
+            background-color: #4c9a5c;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        form {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+            margin: 20px auto;
+        }
+        label, input {
+            display: block;
+            margin-bottom: 10px;
+            width: 100%;
+        }
+        .radio-container {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+        }
+        .radio-container label, .radio-container input[type="radio"] {
+            margin: 0;
+        }
+        .radio-container input[type="radio"] {
+            margin-left: 10px;
+        }
+        .button-container {
+            text-align: center;
+        }
+        .button-container button {
+            background-color: #4c9a5c;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
