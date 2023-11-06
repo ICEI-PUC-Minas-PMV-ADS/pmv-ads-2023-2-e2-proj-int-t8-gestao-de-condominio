@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Arpagen
+build_property.RootNamespace = Arpagen
+build_property.ProjectDir = /home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = RXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-d8qwf932ic
