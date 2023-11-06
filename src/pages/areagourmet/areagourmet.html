@@ -12,7 +12,21 @@
 <body>
     <h1> Apargen </h1>
 
+    <button id="button-voltar" class="btn-style btn-voltar" onclick="Buttonvoltar()"> Voltar </button>
 
+    <label>
+        <input type="checkbox" name="option" id="op1" onclick="desmarcar('op1')" />
+        Área Gourmet
+    </label>
+
+    <label>
+        <input type="checkbox" name="option" id="op2" onclick="desmarcar('op2')" />
+        Salão De Festa
+    </label>
+    <div class="text">Selecione um horário:</div>
+    <input type="time" id="hora" name="hora">
+
+    <button class="btn-style btn-reservar" onclick="reservar()"> Efetuar Reserva </button>
 
     <footer class="footer">
         Apargen 2023
