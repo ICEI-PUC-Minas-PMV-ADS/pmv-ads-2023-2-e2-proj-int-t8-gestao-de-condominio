@@ -2,7 +2,8 @@
 
 Nesta seção, são exibidas as interfaces desenvolvidas para cada funcionalidade do sistema, acompanhadas dos respectivos endereços (URL) e orientações para acesso. A implementação do sistema é descrita com base nos requisitos funcionais e/ou não funcionais atendidos, estabelecendo uma relação clara com os artefatos produzidos, como o código-fonte. Solicitam-se instruções detalhadas para acessar e verificar a implementação, assegurando seu funcionamento no ambiente de hospedagem designado.
 
-##Login (RF-01 e RF-02)
+#Login (RF-01 e RF-02)
+
 A tela login do sistema apresenta apresenta a opção de login de morador ou síndico. Um exemplo da tela é apresentada na Figura X.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/127454796/ccae60a2-26ac-431d-953b-02a48671b93a)
 
