@@ -7,12 +7,11 @@ Nesta seção, são exibidas as interfaces desenvolvidas para cada funcionalidad
 A tela login do sistema apresenta apresenta a opção de login de morador ou síndico. Um exemplo da tela é apresentada na Figura X.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/127454796/ccae60a2-26ac-431d-953b-02a48671b93a)
 
-#Requisitos atendidos
+# Requisitos atendidos
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário realize login | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Permite o usuário login como morador ou síndico   | relatorio.shtml |
-
+|RF-001| Permitir que o usuário realize cadastro | create.cshtml / index.cshtml / logar.cshtml / Delete.cshtml | 
+|RF-002| Permite o usuário login como morador ou síndico   | AccessDenied.cshtml |
 
 # Instruções de acesso
 
