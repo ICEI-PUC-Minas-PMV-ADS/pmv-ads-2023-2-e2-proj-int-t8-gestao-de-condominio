@@ -22,13 +22,11 @@ A tela login do sistema apresenta apresenta a opção de login de morador ou sí
 |RF-003| Permitir reservar a área gourmet | index.cshtml / Privacy.cshtml | 
 |RF-004| Permite reservar vaga de estacionamento   | index.cshtml / Privacy.cshtml |
 
-# Cadastro (RF-05 e RF-06)
+# Cadastro (RF-05)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/127454796/b920f838-7d69-4209-a76b-b47e82452a42)
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-003| Permitir reservar a área gourmet | index.cshtml / Privacy.cshtml | 
-|RF-004| Permite reservar vaga de estacionamento   | index.cshtml / Privacy.cshtml |
-
+|RF-003| Permitir fazer cadastro de morador e síndico | Cadastro.html | 
 
 # Instruções de acesso
 
