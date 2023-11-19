@@ -9,37 +9,149 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Arpagen
 build_property.RootNamespace = Arpagen
-build_property.ProjectDir = /home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/
+build_property.ProjectDir = C:\Users\Familia Brum\Desktop\Projeto\Arpagen\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio
+build_property.MSBuildProjectDirectory = C:\Users\Familia Brum\Desktop\Projeto\Arpagen
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q3JlYXRlLmNzaHRtbA==
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Agendamentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RGVsZXRlLmNzaHRtbA==
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Agendamentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RGV0YWlscy5jc2h0bWw=
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Agendamentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RWRpdC5jc2h0bWw=
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Agendamentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RXJyb3IuY3NodG1s
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Agendamentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/AreasComum/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNDb211bVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-d8qwf932ic
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/AreasComum/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNDb211bVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/AreasComum/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNDb211bVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/AreasComum/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNDb211bVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/AreasComum/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNDb211bVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Logins/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Logins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Logins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Logins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Logins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Logins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Logins/Logar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXExvZ2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Logins/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5zXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Moradores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Moradores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYWRvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Moradores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Moradores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Moradores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9yYWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Visitantes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhbnRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Visitantes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhbnRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Visitantes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhbnRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Visitantes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhbnRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Visitantes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlzaXRhbnRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Familia Brum/Desktop/Projeto/Arpagen/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oipry512wd

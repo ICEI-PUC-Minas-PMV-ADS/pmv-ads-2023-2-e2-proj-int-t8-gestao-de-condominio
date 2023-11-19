@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Arpagen.csproj": {}
+    "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\Arpagen.csproj": {}
   },
   "projects": {
-    "/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Arpagen.csproj": {
+    "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\Arpagen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Arpagen.csproj",
+        "projectUniqueName": "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\Arpagen.csproj",
         "projectName": "Arpagen",
-        "projectPath": "/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/Arpagen.csproj",
-        "packagesPath": "/home/neb/.nuget/packages/",
-        "outputPath": "/home/neb/Downloads/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/obj/",
+        "projectPath": "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\Arpagen.csproj",
+        "packagesPath": "C:\\Users\\Familia Brum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/neb/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Familia Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +40,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[6.0.24, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[6.0.24, )"
             },
@@ -84,12 +94,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[6.0.23, 6.0.23]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -98,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
