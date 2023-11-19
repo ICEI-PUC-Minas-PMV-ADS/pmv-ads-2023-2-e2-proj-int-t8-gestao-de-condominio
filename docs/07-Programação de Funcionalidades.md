@@ -1,15 +1,17 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+Nesta seção, são exibidas as interfaces desenvolvidas para cada funcionalidade do sistema, acompanhadas dos respectivos endereços (URL) e orientações para acesso. A implementação do sistema é descrita com base nos requisitos funcionais e/ou não funcionais atendidos, estabelecendo uma relação clara com os artefatos produzidos, como o código-fonte. Solicitam-se instruções detalhadas para acessar e verificar a implementação, assegurando seu funcionamento no ambiente de hospedagem designado.
 
-Implementação do sistema descrita por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos com os artefatos criados (código fonte), deverão apresentadas as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+##Login (RF-01 e RF-02)
+A tela login do sistema apresenta apresenta a opção de login de morador ou síndico. Um exemplo da tela é apresentada na Figura X.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio/assets/127454796/ccae60a2-26ac-431d-953b-02a48671b93a)
 
-Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos desenvolvidos.
-
+#Requisitos atendidos
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
+|RF-001| Permitir que o usuário realize login | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
+|RF-002| Permite o usuário login como morador ou síndico   | relatorio.shtml |
+
 
 # Instruções de acesso
 
