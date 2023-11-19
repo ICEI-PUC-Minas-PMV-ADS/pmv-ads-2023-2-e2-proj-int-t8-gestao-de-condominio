@@ -2,14 +2,9 @@
 
     Nome do aplicativo: Apargen
     Versão: 0.1
-    Data do teste: 22/10/2023
-    Responsável pelo teste: George Lucas
+    Data do teste: 19/11/2023
+    Responsável pelo teste: Anderson Nascimento
 
-Por ainda estar bem cru a experiência do usuário não vai ser das melhores, as páginas estão bonitas com um layout responsivo e intuivo mas o aplicativo ainda não está usavél, faltam as funcionalidades e polimento em algumas páginas.
+Atualmente, o programa está completamente funcional, abrangendo com sucesso as funcionalidades de login, reservas e cadastros.
 
-Refente a home page, o usuário não vai encontrar dificuldade alguma em nada nela, ao entrar na página inicial nos deparamos com um breve resumo daquilo que o aplicativo pode fazer, nela conseguimos fazer login e nos cadastrar, tudo está de forma bem clara, a interface é limpa e de fácil visualização, de forma geral isso se aplica a quase todas as páginas, então quanto a clareza o usuário vai ter uma boa experiência.
-
-O site peca no design de algumas páginas, por exemplo na página "carros" as coisas não estão muito alinhadas e falta algumas informações, o usuário pode ter dificuldade em entender oque deve ser feito nela.
-
-O aplicativo está incompleto, ainda está em desenvolvimento mas refente ao que foi feito.
-5/10
+Dessa forma, o aplicativo agora se encontra em pleno funcionamento, oferecendo uma experiência aprimorada aos usuários, com todas as funcionalidades operando conforme o esperado, desde o processo de login até a realização de reservas e cadastros.
