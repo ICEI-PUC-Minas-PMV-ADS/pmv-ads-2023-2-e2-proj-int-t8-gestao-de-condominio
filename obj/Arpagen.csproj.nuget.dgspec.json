@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\Arpagen.csproj": {}
+    "C:\\Users\\PC\\Documents\\Repositorio 2\\pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio\\Arpagen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\Arpagen.csproj": {
+    "C:\\Users\\PC\\Documents\\Repositorio 2\\pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio\\Arpagen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\Arpagen.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\Repositorio 2\\pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio\\Arpagen.csproj",
         "projectName": "Arpagen",
-        "projectPath": "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\Arpagen.csproj",
-        "packagesPath": "C:\\Users\\Familia Brum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familia Brum\\Desktop\\Projeto\\Arpagen\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Documents\\Repositorio 2\\pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio\\Arpagen.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\Repositorio 2\\pmv-ads-2023-2-e2-proj-int-t8-gestao-de-condominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Familia Brum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
